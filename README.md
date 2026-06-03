@@ -4,7 +4,7 @@ India’s BPO and IT-enabled services industry employs more than **5.4 million p
 
 Cities like Gurugram and Noida in the National Capital Region (NCR) have become major hubs for customer support operations, where thousands of professionals work every day to resolve customer concerns and ensure service continuity.
 
-While working closely with the telecommunications support process, I had the opportunity to observe the complete service request lifecycle — from the moment a customer raises a complaint to ticket creation, escalation handling, and final resolution.
+While working closely with the telecommunications process, I had the opportunity to observe the complete service request lifecycle — from the moment a customer raises a complaint to ticket creation, escalation handling, and final resolution.
 
 Through this experience, I noticed several operational challenges that are common in large-scale customer support environments:
 
